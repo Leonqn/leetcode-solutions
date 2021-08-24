@@ -168,7 +168,7 @@ fn length_of_longest_substring_test() {
 // }
 
 impl Solution {
-    pub fn increasing_triplet(nums: Vec<i32>) -> bool {
+    pub fn increasing_triplet(_nums: Vec<i32>) -> bool {
         false
     }
 }
